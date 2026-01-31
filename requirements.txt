@@ -1,7 +1,7 @@
 streamlit
-google-generativeai
+google-genai
 openai
-youtube_transcript_api
+youtube_transcript_api==0.6.2
 python-dotenv
 beautifulsoup4
 st-copy-to-clipboard
